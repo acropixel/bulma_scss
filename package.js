@@ -1,10 +1,10 @@
 Package.describe({
-  name: 'bduff9:bulma',
+  name: 'acropixel:bulma',
   version: '0.3.0',
   // Brief, one-line summary of the package.
   summary: 'Bulma css (v0.4.3), files are in .scss format for use in Meteor projects',
   // URL to the Git repository containing the source code for this package.
-  git: 'https://github.com/bduff9/bulma_scss',
+  git: 'https://github.com/acropixel/bulma_scss',
   // By default, Meteor will default to using README.md for documentation.
   // To avoid submitting documentation, set this field to null.
   documentation: 'README.md'
